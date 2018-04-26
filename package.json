@@ -1,0 +1,27 @@
+{
+  "name": "WebProjectDefault",
+  "version": "1.0.0",
+  "description": "Web Project Default",
+  "main": "gulpfile.babel.js",
+  "dependencies": {
+    "babel-register": "^6.24.1",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-babel": "^6.1.3",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-print": "^2.0.1",
+    "gulp-sass": "^3.2.1",
+    "gulp-watch": "^5.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
