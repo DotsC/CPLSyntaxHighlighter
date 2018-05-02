@@ -1,7 +1,7 @@
-![Logo of the project](https://raw.githubusercontent.com/jehna/readme-best-practices/master/sample-logo.png)
+![Logo of the project](http://thatsdecent.com/img/shades.svg)
 
 # Web Project Default
-> Additional information or tagline
+> Simple starter
 
 This is a very simple starter project for ES6/SASS based projects. Nothing too fancy  - just helps me spin up projects quickly. Based on the default template from Classic H5BP.
 
